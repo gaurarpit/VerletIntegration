@@ -34,9 +34,7 @@ This is an implementation of [Verlet Integration](https://www.algorithm-archive.
 ![ezgif com-video-to-gif (3)](https://github.com/marichardson137/VerletIntegration/assets/77594556/937feb63-ffb4-4247-838c-f48b08db6508)
 
 ### System Specs.
-- MacBook Pro (13-inch, M1, 2020)
-- Chip - Apple M1
-- Memory - 8 GB
-- OS - Monterey Version 12.1
+- MacBook Pro 
+- Chip - Apple M2
 
 I have no idea if this will run on your machine but you're welcome to try by calling `make` in the root directory followed by `./app`

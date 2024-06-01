@@ -38,7 +38,9 @@ This is an implementation of [Verlet Integration](https://www.algorithm-archive.
 - MacBook Pro 
 - Chip - Apple M2
 
-I have no idea if this will run on your machine but you're welcome to try by calling `make` in the root directory followed by `./app`
+I have no idea if this will run on your machine but you're welcome to try by calling `make` in the root directory.
+Set the `DYLD_LIBRARY_PATH` as `export DYLD_LIBRARY_PATH=/<path-to-repo>/VerletIntegration/src/dependencies/library:$DYLD_LIBRARY_PATH`,
+followed by `./app`
 
 ### Credits
 Inspired by https://www.youtube.com/watch?v=NorXFOobehY&t=182s&ab_channel=Gradience 
